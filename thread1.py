@@ -1,5 +1,5 @@
 import threading as t
-
+num = 0
 def starting():
 	global num
 	while True:
